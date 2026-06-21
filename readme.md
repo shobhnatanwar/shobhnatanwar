@@ -1,4 +1,4 @@
-## Hi, I'm Shobhna Tanwar 👋
+## Hi, I'm Shobhna Tanwar
 
 Data Analyst in training | B.Tech IT @ ADGITM Delhi | Graduating May 2027
 
