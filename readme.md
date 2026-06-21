@@ -5,7 +5,7 @@ Data Analyst in training | B.Tech IT @ ADGITM Delhi | Graduating May 2027
 I turn messy datasets into dashboards and decisions. Currently building end-to-end analytics projects across supply chain, e-commerce, and customer behaviour.
 
 ## **Tech stack**
-SQL (PostgreSQL) · Python (Pandas, Matplotlib, Seaborn) · Power BI & DAX · Excel · Git
+SQL (MySQL Workbench) · Python (Pandas, Matplotlib, NumPy) · Power BI & DAX · Excel · Git
 
 ## **Projects**
 - 🔗 [Supply Chain Analytics](https://github.com/shobhnatanwar) — SQL + Python + Power BI | 300-order India dataset
