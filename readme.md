@@ -1,6 +1,6 @@
 ## Hi, I'm Shobhna Tanwar
 
-Data Analyst in training | B.Tech IT @ ADGITM Delhi | Graduating May 2027
+Data Analyst | B.Tech IT @ ADGITM Delhi | Graduating May 2027
 
 I turn messy datasets into dashboards and decisions. Currently building end-to-end analytics projects across supply chain, e-commerce, and customer behaviour.
 
