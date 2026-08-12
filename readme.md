@@ -12,6 +12,7 @@ SQL (MySQL Workbench) · Python (Pandas, Matplotlib, NumPy) · Power BI & DAX ·
 - 🔗 [Amazon Discount Analysis](https://github.com/shobhnatanwar/amazon-discount-analysis) — Python + Power BI | 1,000+ listings
 - 🔗 [Customer Churn Analysis](https://github.com/shobhnatanwar/customer-churn-analysis) — Python + SQL | Telecom dataset
 - 🔗 [Spotify Hit Analysis](https://github.com/shobhnatanwar/spotify-hit-analysis) — Power BI + DAX
+- 🔗 [Olist Order Analysis](https://github.com/shobhnatanwar/olist_orders) — Python | 95,824 Olist orders
 
 ## LinkedIn
 https://www.linkedin.com/in/shobhnatanwar/
