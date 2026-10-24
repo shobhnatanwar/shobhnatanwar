@@ -14,7 +14,7 @@ SQL (MySQL Workbench) · Python (Pandas, Matplotlib, NumPy) · Power BI & DAX ·
 - 🔗 [Spotify Hit Analysis](https://github.com/shobhnatanwar/spotify-hit-analysis) — Power BI + DAX
 - 🔗 [Olist Order Analysis](https://github.com/shobhnatanwar/olist_orders) — Python | 95,824 Olist orders
 - 🔗 [IBM HR Analysis](https://github.com/shobhnatanwar/IBM-HR-Analysis) — Python + PowerBI | 1400+ employee
-- 🔗 [A/B Testing on Cookie Cats](- 🔗 [IBM HR Analysis](https://github.com/shobhnatanwar/IBM-HR-Analysis) — Python Analysis | A/B Testing | 90,189
+- 🔗 [A/B Testing on Cookie Cats](https://github.com/shobhnatanwar/A-B-Testing-Done-Properly-Cookie-Cats-) — Python Analysis | A/B Testing | 90,189
 
 
 ## LinkedIn
