@@ -13,7 +13,9 @@ SQL (MySQL Workbench) · Python (Pandas, Matplotlib, NumPy) · Power BI & DAX ·
 - 🔗 [Customer Churn Analysis](https://github.com/shobhnatanwar/customer-churn-analysis) — Python + SQL | Telecom dataset
 - 🔗 [Spotify Hit Analysis](https://github.com/shobhnatanwar/spotify-hit-analysis) — Power BI + DAX
 - 🔗 [Olist Order Analysis](https://github.com/shobhnatanwar/olist_orders) — Python | 95,824 Olist orders
-- 🔗 [IBM HR Analysis](https://github.com/shobhnatanwar/IBM-HR-Analysis/tree/main) — Python + PowerBI | 1400+ employees
+- 🔗 [IBM HR Analysis](https://github.com/shobhnatanwar/IBM-HR-Analysis) — Python + PowerBI | 1400+ employee
+- 🔗 [A/B Testing on Cookie Cats](- 🔗 [IBM HR Analysis](https://github.com/shobhnatanwar/IBM-HR-Analysis) — Python Analysis | A/B Testing | 90,189
+
 
 ## LinkedIn
 https://www.linkedin.com/in/shobhnatanwar/
